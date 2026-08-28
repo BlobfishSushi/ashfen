@@ -37,6 +37,7 @@ No arc content has been written yet. This is index-only.
 | ★ | Horatio Martinez / The Memory-Thief Watchmaker | `[CORE]` | -- | `post-foundation/martinez.md` |
 | ★ | The Alegrove Island Murders | `[CORE]` | -- (own file) | `post-foundation/alegrove.md` |
 | ★ | The Lich's Wheel / The Alternate Riders | `[ALT-TIMELINE]` | -- | `post-foundation/lichs-wheel.md` |
+| ★ | The Wishing House | `[CORE PLACEHOLDER]` | -- | `post-foundation/wishing-house.md` |
 
 ## Branches
 
