@@ -82,6 +82,6 @@ Geoff. Chapter 3 currently does. Keep it that way.
 
 ## Related
 
-`../drafts/book1-chapter-02.md`; `../../kb/issues/prose-tics.md` for the tic
-checklist both agents ran against; `../../kb/characters/leo-castello.md` for the
+`../drafts/book1-chapter-02.md`; `../../kb/archive/prose-tics-superseded.md` (the tic
+checklist both agents ran against, since archived); `../../kb/characters/leo-castello.md` for the
 voice notes the critic measured Leo against.

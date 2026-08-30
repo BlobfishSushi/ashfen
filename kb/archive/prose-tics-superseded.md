@@ -1,4 +1,31 @@
-# Prose tics — review checklist
+# Prose tics — superseded
+
+**Archived 2026-08-30.** This page used to live at `kb/issues/prose-tics.md`
+and was the project's own stand-in for a critic/editor pass, hand-written
+because the `creative-writing-skills` plugin's `critic` and `editor` agents
+weren't reliably loaded in every session. Now that the plugin is installed
+(see `kb/issues/index.md`), those agents own this ground properly — reading
+the actual manuscript, not a fixed list of five patterns caught in earlier
+chapters.
+
+**Do not treat this file as a checklist to review a chapter against.** It was
+never a complete critique pass, only the specific tics this manuscript had
+already been caught making. A session that runs this list and finds nothing
+wrong has confirmed the chapter avoids five particular failure modes — it has
+not confirmed the chapter is good. If the `critic`/`editor` agents or
+`writing-principles`/`llm-writing`/`creative-writing-craft` skills aren't
+actually available in a session, that is a gap to flag and fix (get the
+plugin loaded), not a reason to fall back to this list as if it were
+equivalent coverage.
+
+Kept below for the worked examples — actual lines cut from this manuscript,
+which are calibration a generic rule can't give the plugin's agents on its
+own. See `style-files-superseded.md` for the same caveat applied to the
+`kb/styles/` files this document itself replaced.
+
+---
+
+# Prose tics — review checklist (historical)
 
 **Read this during a critique/editor pass. Do not load it while drafting.**
 
@@ -14,7 +41,7 @@ over-explaining, labeling emotions, resolving tension early, em-dash overuse,
 homogenized character voices — are covered by the writing skills
 (`/writing-principles`, its `resources/failure-modes.md`, and `/llm-writing`)
 and were removed rather than restated. See
-`archive/style-files-superseded.md` for what was dropped and why.
+`style-files-superseded.md` for what was dropped and why.
 
 *Chapters 1–6 were converted to third person past on 2026-08-29 and every
 finding below was cleared out of them in the same pass. What follows is the
@@ -151,5 +178,5 @@ returning.
 
 `../characters/leo-castello.md` and `../characters/agnes.md` for the voice
 notes that *are* meant to be read before drafting; `../open-questions.md` for
-the voices that aren't settled; `../archive/style-files-superseded.md` for the
-removal record.
+the voices that aren't settled; `style-files-superseded.md` for the removal
+record; `../issues/index.md` for how critique now actually happens.

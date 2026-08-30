@@ -1,4 +1,4 @@
-*Book 1, Chapter 6 — draft. Beats 28–32 of `work/outline/book1-chapters-05-06-beats.md`. Converted to third person past 2026-08-29; exclamation-point relay residue removed from Aldric's quoted lines, and the escalating-triad and negation-pair constructions flagged in `kb/issues/prose-tics.md` rewritten.*
+*Book 1, Chapter 6 — draft. Beats 28–32 of `work/outline/book1-chapters-05-06-beats.md`. Converted to third person past 2026-08-29; exclamation-point relay residue removed from Aldric's quoted lines, and the escalating-triad and negation-pair constructions flagged in `kb/issues/prose-tics.md` (now archived at `kb/archive/prose-tics-superseded.md`) rewritten.*
 
 # Twenty-Six Minutes
 

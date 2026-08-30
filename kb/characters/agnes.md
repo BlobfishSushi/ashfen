@@ -20,7 +20,7 @@ The ghosts' front and their bridge to the living world. Where Sable and Aldric c
 
 ## Voice
 
-**She asks questions like a person, with question marks.** Agnes is plain and unhurried, and she is not performing non-reaction. Her flatness is warmth held steady, not affect withheld. If her dialogue is coming out as flat declaratives, that is the chapter 5 failure repeating — see `../issues/prose-tics.md`.
+**She asks questions like a person, with question marks.** Agnes is plain and unhurried, and she is not performing non-reaction. Her flatness is warmth held steady, not affect withheld. If her dialogue is coming out as flat declaratives, that is the chapter 5 failure repeating — see `../archive/prose-tics-superseded.md`.
 
 **Emotion is audible in her punctuation and sentence shape**, not only described in the narration around the line. When she is scared, straining, or out of patience the line itself carries it: a break, a repeated word, an interruption, a register that slips. "Leo, *move*."
 
