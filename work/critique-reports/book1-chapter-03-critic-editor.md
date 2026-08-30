@@ -1,4 +1,4 @@
-*Critic and editor pass on `work/drafts/book1-chapter-03.md`, 2026-08-30. Read against the beat sheet, `kb/issues/prose-tics.md`, and the settled voice notes for Leo and Agnes. Findings below are the synthesis; everything marked applied is already in the draft.*
+*Critic and editor pass on `work/drafts/book1-chapter-03.md`, 2026-08-30. Read against the beat sheet, the then-current `kb/issues/prose-tics.md`, now archived at `kb/archive/prose-tics-superseded.md`, and the settled voice notes for Leo and Agnes. Findings below are the synthesis; everything marked applied is already in the draft.*
 
 # Chapter 3 — critic and editor pass
 
@@ -24,7 +24,7 @@ closed on one more image of Leo's composure cracking. Left as is.
 ## The critic's headline finding
 
 **Four "like X" constructions in one continuous scene**, against the
-one-per-scene ceiling in `kb/issues/prose-tics.md`. Individually each was
+one-per-scene ceiling in the then-current `kb/issues/prose-tics.md`, now archived at `kb/archive/prose-tics-superseded.md`. Individually each was
 doing real work — none read as filler on its own — but stacked across a
 single unbroken scene they read as a tic by the fourth occurrence, which is
 exactly the failure mode the rule exists to catch.

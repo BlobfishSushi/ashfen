@@ -1,4 +1,4 @@
-*Book 1, Chapter 3 — draft. Beats 10–15 of `work/outline/book1-chapters-02-04-beats.md`. Converted to third person past 2026-08-29; critic and editor pass applied 2026-08-30 (four "like X" constructions in one continuous scene cut to two, per `kb/issues/prose-tics.md`; one reaction-filler beat tightened).*
+*Book 1, Chapter 3 — draft. Beats 10–15 of `work/outline/book1-chapters-02-04-beats.md`. Converted to third person past 2026-08-29; critic and editor pass applied 2026-08-30 (four "like X" constructions in one continuous scene cut to two, per the then-current `kb/issues/prose-tics.md`, now archived at `kb/archive/prose-tics-superseded.md`; one reaction-filler beat tightened).*
 
 # Eight Thirty
 

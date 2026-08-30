@@ -31,7 +31,8 @@ Not story content — kb structure that was tried and replaced. Kept because the
 
 | Page | What it records |
 |---|---|
-| [Style files — superseded](style-files-superseded.md) | The `kb/styles/` tree, removed 2026-08-29 for producing the AI prose cadence it was written to prevent. Records where each surviving lesson went (character pages, `../issues/prose-tics.md`, `CLAUDE.md`) and which rulings were dropped as already covered by the writing skills. |
+| [Style files — superseded](style-files-superseded.md) | The `kb/styles/` tree, removed 2026-08-29 for producing the AI prose cadence it was written to prevent. Records where each surviving lesson went (character pages, `prose-tics-superseded.md`, `CLAUDE.md`) and which rulings were dropped as already covered by the writing skills. |
+| [Prose tics — superseded](prose-tics-superseded.md) | The `kb/issues/prose-tics.md` hand-written checklist, retired 2026-08-30 once the `creative-writing-skills` plugin's `critic`/`editor` agents were actually installed. Kept for its worked examples; explicitly **not** a substitute checklist if the plugin isn't loaded — see `../issues/index.md`. |
 
 `legacy-source/` holds the three pre-decomposition monolithic notes this whole kb was built out of — fully superseded by the structured pages, kept for reference.
 

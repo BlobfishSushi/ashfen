@@ -30,7 +30,7 @@ those are the author's real instincts and they work. In third-person fiction
 they are within a hair of the default LLM cadence, and an agent instructed to
 produce them produces them constantly. The chapter 6 draft shows the result —
 see the "escalating triads and fragment-verdicts" entry in
-`../issues/prose-tics.md`.
+`prose-tics-superseded.md`.
 
 **3. The two voice files documented voices that had never been decided.**
 `leo-castello-voice.md` was extrapolated from a single pilot scene;
@@ -52,7 +52,7 @@ explicitly.
 | Agnes's punctuation, her plainness as warmth, the ghost-relay contrast structure | `../characters/agnes.md` § Voice |
 | The flair calibration (the "wet snort" target; wordplay and puns rejected) | `CLAUDE.md` § Prose |
 | Ellipsis as the project's trailing/interruption mark, not the em dash | `CLAUDE.md` § Prose |
-| Flat periods, uniform composure, scene-final buttons, reaction filler, bolted-on similes, plus every cut-in-editing example | `../issues/prose-tics.md` |
+| Flat periods, uniform composure, scene-final buttons, reaction filler, bolted-on similes, plus every cut-in-editing example | `prose-tics-superseded.md` |
 | Leo's voice — POV, tense, register, comps, the flat declarative question | **Dropped.** Not settled; reopened as a question on `../open-questions.md` |
 | The bathhouse fragment's unassigned voice | Reopened as a question on `../open-questions.md` |
 | That Leo is the better part of a year off the force at the Introduction arc's opening | `../characters/leo-castello.md` § Background — a canon fact, not a voice note |
@@ -75,13 +75,13 @@ Restating them in the kb bought nothing and cost the writer's attention.
 | Balanced "I'd rather X than Y" constructions | `/llm-writing` § What to Delete — pairing clauses where one half carries the meaning |
 
 The project-specific *instances* of several of these — the actual lines cut in
-editing, the chapter 5 finding — were kept in `../issues/prose-tics.md`, because
+editing, the chapter 5 finding — were kept in `prose-tics-superseded.md`, because
 a worked example from this manuscript is calibration the generic rule can't
 give. The generic rule itself was not restated.
 
 ## Related
 
-`index.md` for the rest of the shelved material; `../issues/prose-tics.md` and
+`index.md` for the rest of the shelved material; `prose-tics-superseded.md` and
 `../characters/agnes.md` for where the surviving content went;
 `../open-questions.md` for the two voices that were reopened; `CLAUDE.md` for
 the precedence rule that keeps this from recurring.
