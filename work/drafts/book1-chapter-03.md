@@ -1,4 +1,4 @@
-*Book 1, Chapter 3 — draft. Beats 10–15 of `work/outline/book1-chapters-02-04-beats.md`. Converted to third person past 2026-08-29; critic and editor pass applied 2026-08-30 (four "like X" constructions in one continuous scene cut to two, per the then-current `kb/issues/prose-tics.md`, now archived at `kb/archive/prose-tics-superseded.md`; one reaction-filler beat tightened).*
+*Book 1, Chapter 3 — draft. Beats 10–15 of `work/outline/book1-chapters-02-04-beats.md`. Converted to third person past 2026-08-29; critic and editor pass applied 2026-08-30 (four "like X" constructions in one continuous scene cut to two, per the then-current `kb/issues/prose-tics.md`, now archived at `kb/archive/prose-tics-superseded.md`; one reaction-filler beat tightened); second critic pass 2026-08-30 with the `creative-writing-skills` plugin's `critic` agent (redundant post-reveal interiority cut, Geoff named in Leo's pitch to match beat 10, Aldric's first line re-registered per author direction; direction-of-travel discrepancy with the outline resolved by updating the outline to match the draft, per the author).*
 
 # Eight Thirty
 
@@ -8,7 +8,7 @@ Agnes was behind the counter, apron gone, coffee already going. Two mugs this ti
 
 "Sit," she said, before he'd picked a chair. He took the one facing the door, out of habit, and she didn't comment on it.
 
-He laid the case out the way he had laid it out for eleven months to anyone who'd sit still long enough. Six wrecks, same stretch past exit 43, every file closed the same way. Every driver had passed through a town called Mullerfield in the weeks before it happened, though it had taken him most of a year, one property record and one gas receipt at a time, to find that out. The last one was a kid. Twenty-one, driving home from the state fair.
+He laid the case out the way he had laid it out for eleven months to anyone who'd sit still long enough. Six wrecks, same stretch past exit 43, every file closed the same way. Every driver had passed through a town called Mullerfield in the weeks before it happened, though it had taken him most of a year, one property record and one gas receipt at a time, to find that out. The last one was a kid named Geoff. Twenty-one, driving home from the state fair.
 
 "That's what I've got," he said. "A road, a town, and no way to explain what connects them that anybody official will listen to."
 
@@ -54,11 +54,11 @@ The air by the corner table went cold enough that he felt it from six feet away,
 
 The woman didn't say much. She watched him, calm with a stillness too old for the face carrying it. "Sable," she said finally, one word, like a formality she'd decided he was owed.
 
-"Aldric." The man again, and something that might have been the start of a smile crossed whatever was left of his face. "Nice to meet you. Genuinely, kudos for not screaming yet."
+"Aldric." The man again, and something that might have been the start of a smile crossed whatever was left of his face. "Nice to meet you. Most people scream, first time."
 
 Then they were gone, the cold going with them, and the room was a room again.
 
-Leo's hands, he noticed distantly, were flat on the table, pressing down. He was, on the inside, screaming. None of it reached his face.
+Leo's hands, he noticed distantly, were flat on the table, pressing down. None of it reached his face.
 
 "They're still here," Agnes said. "That's just what it costs them to be seen by somebody who isn't already looking for it. Not long, not often. I do the talking most days."
 
