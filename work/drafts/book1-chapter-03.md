@@ -1,4 +1,4 @@
-*Book 1, Chapter 3 — draft. Beats 10–15 of `work/outline/book1-chapters-02-04-beats.md`. Converted to third person past 2026-08-29.*
+*Book 1, Chapter 3 — draft. Beats 10–15 of `work/outline/book1-chapters-02-04-beats.md`. Converted to third person past 2026-08-29; critic and editor pass applied 2026-08-30 (four "like X" constructions in one continuous scene cut to two, per `kb/issues/prose-tics.md`; one reaction-filler beat tightened).*
 
 # Eight Thirty
 
@@ -14,7 +14,7 @@ He laid the case out the way he had laid it out for eleven months to anyone who'
 
 Agnes didn't write any of it down or ask him to repeat a word. She watched him with the kind of attention he was used to giving people and not to getting.
 
-When he was done she was quiet a moment. Then: "Before I start, I need you to let me finish. Can you do that?"
+When he was done, she said, "Before I start, I need you to let me finish. Can you do that?"
 
 "Depends what it is."
 
@@ -38,7 +38,7 @@ Leo said nothing for a second. "How do you know his last name. I never gave you 
 
 "He's dead."
 
-"I know that too." She said it steady, like an old argument she had stopped trying to win fast.
+"I know that too." She said it steady.
 
 "That's not proof. That's just you telling me something." It came out harder than he meant it to. "I've been the guy with nothing but his own word for eleven months. I know exactly how far that gets you."
 
@@ -60,6 +60,6 @@ Then they were gone, the cold going with them, and the room was a room again.
 
 Leo's hands, he noticed distantly, were flat on the table, pressing down. He was, on the inside, screaming. None of it reached his face.
 
-"They're still here," Agnes said, like she was continuing a sentence instead of starting one. "That's just what it costs them to be seen by somebody who isn't already looking for it. Not long, not often. I do the talking most days."
+"They're still here," Agnes said. "That's just what it costs them to be seen by somebody who isn't already looking for it. Not long, not often. I do the talking most days."
 
 "Okay."
